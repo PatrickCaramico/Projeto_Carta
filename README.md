@@ -1,14 +1,14 @@
-# Projeto_Carta
+# Project_letter
 
-Projeto Carta: é uma carta de apresentação online, desenvolvido em HTML e CSS. esse projeto foi desenvolvido com intuito de treinar meus domininos com linguagem de Marcação e linguagem em regras com o CSS. 
+Project Letter: It is an online presentation letter, developed in HTML and CSS. This project was created with the intention of enhancing my skills in markup language and CSS styling rules.
 
-# Imagem do Projeto
+# Project Image
 
 <img aligh="center" src="imagem projeto/Tela Projeto.png" width="800px">
 
-# Trecho do código
+# Code Snippet
 
-Trecho dos códigos em HTML e CSS; 
+Snippet of HTML and CSS code:
 
 # 
 HTML
@@ -22,6 +22,6 @@ CSS
 
 #
 
-# Link Projeto
-**Link para acessar o projeto;**
+# Project Link
+**Link to access the project:;**
 https://patrickcaramico.github.io/Projeto_Carta/
